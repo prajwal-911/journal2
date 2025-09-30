@@ -8,3 +8,4 @@ if age >= 18:
     print("You are eligible to vote in elections.")
     
 print("Thank you for using the program!")
+ 
